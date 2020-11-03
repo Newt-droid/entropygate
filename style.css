@@ -37,14 +37,14 @@ ul{
 /* Header **/
 header{
   background:#35424a;
-  color:#ffffff;
+  color:#aaaaaf;
   padding-top:30px;
   min-height:70px;
   border-bottom:#e8491d 3px solid;
 }
 
 header a{
-  color:#ffffff;
+  color:#8e1aF6;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
@@ -81,8 +81,8 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  min-height:400px;
-  background:url('../img/Photo_1601023392462.png') no-repeat;
+  min-height:563px;
+  background:url('./../img/lk3f6foidj.png') no-repeat;
   background-position: center;
   background-size: cover;
   text-align:center;
@@ -90,13 +90,14 @@ header a:hover{
 }
 
 #showcase h1{
-  margin-top:100px;
-  font-size:55px;
+  margin-top:90px;
+  font-size:47px;
   margin-bottom:10px;
 }
 
 #showcase p{
-  font-size:20px;
+				font: 17px/1.8 Arial
+  font-size:29px;
 }
 
 /* Newsletter */
